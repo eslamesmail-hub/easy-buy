@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">223171154962-13mv37c3b0ssin8pd3699v9f18ab2cl2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">223171154962</string>
+    <string name="google_api_key" translatable="false">AIzaSyCv8j8sRb-okg9pgJpXJy_-cFPrqGU46S0</string>
+    <string name="google_app_id" translatable="false">1:223171154962:android:1553bbe90ef956e4b5b4cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCv8j8sRb-okg9pgJpXJy_-cFPrqGU46S0</string>
+    <string name="google_storage_bucket" translatable="false">easybuy-d1f75.appspot.com</string>
+    <string name="project_id" translatable="false">easybuy-d1f75</string>
+</resources>
